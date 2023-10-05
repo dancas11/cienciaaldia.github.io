@@ -1,5 +1,3 @@
-# cienciaaldia.github.io
-Ciencia Al Día
 <!DOCTYPE html> 
 <html>
 <title>Ciencia al día</title>
