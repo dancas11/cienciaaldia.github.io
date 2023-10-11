@@ -1,6 +1,5 @@
-<!DOCTYPE html> 
 <html>
-<title>Ciencia al día</title>
+<title> Ciencia al día </title>
 <head>
   <style>
     div {
@@ -18,7 +17,7 @@
 
   <div>
     <p align="center">
-    <h1>LA FALTA DE FUENTES CONFIABLES Y FÁCILES DE ENTENDER PARA EL PÚBLICO GENERAL EN EL ÁREA CIENTÍFICA.</h1>
+    <h1>CIENCIA AL DÍA SE CREA EN BASE A LA FALTA DE FUENTES CONFIABLES Y FÁCILES DE ENTENDER PARA EL PÚBLICO GENERAL EN EL ÁREA CIENTÍFICA.</h1>
 </p>
   </div>
 </body>
@@ -104,7 +103,7 @@ Cabe resaltar que este sitio web es dirigido por científicos. </p>
 <p align="left"> El uso de fuentes de información confiables en la investigación y la toma de decisiones basadas en la ciencia es esencial para asegurar que el conocimiento se construya sobre una base sólida y que las acciones se basen en evidencia sólida. La confiabilidad de las fuentes es clave para la integridad, el progreso y la credibilidad de la investigación y la comunidad científica en su conjunto.</p>
 <p align="left"> Otro punto a tratar es que este sitio web lo hicimos con el fin de que pueda ser accesible al público.</p>
 
-<img src="C:\HTML\imagenes\ciencia1.jpeg" alt="Descripción de la imagen">
+<img src="ciencia1.jpg" alt="Descripción de la imagen">
 
 
 </body>
